@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleForUnitTest</string>
+    <string name="title_confirm_exit">Confirm Exit</string>
+    <string name="message_confirm_exit">Are you sure you want to exit FragmentManaging BackStack Demo?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
